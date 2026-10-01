@@ -8,6 +8,8 @@
 
 A persistent memory system for AI coding agents that enables long-term context retention across sessions using local vector database technology.
 
+> 🇳🇱 [Nederlandse vertaling](README.nl.md)
+
 ## Visual Overview
 
 **Project Memory Timeline:**
